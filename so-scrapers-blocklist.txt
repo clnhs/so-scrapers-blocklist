@@ -9,3 +9,5 @@
 *://issueexplorer.com/*
 *://www.py4u.net/*
 *://www.couponxoo.com/*
+*://intellipaat.com/*
+*://www.aspsnippets.com/*

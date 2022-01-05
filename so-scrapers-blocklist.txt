@@ -11,3 +11,9 @@
 *://www.couponxoo.com/*
 *://intellipaat.com/*
 *://www.aspsnippets.com/*
+*://johnnn.tech/*
+*://bestofreactjs.com/*
+*://giters.com/*
+*://exerror.com/*
+*://www.jianshu.com/*
+*://laravelquestions.com/*

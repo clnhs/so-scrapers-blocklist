@@ -13,6 +13,8 @@
 *://www.jianshu.com/*
 *://*.openweaver.com/*
 *://flutterq.com/*
+*://www.jscodetips.com/*
+*://itectec.com/*
 
 ! From https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt
 *://code-examples.net/*
